@@ -1,0 +1,113 @@
+﻿END-USER LICENSE AGREEMENT
+
+
+BY CLICKING ON THE "I ACCEPT" OR SIMILARLY LABELED BUTTON OR BY USING OR OTHERWISE EXERCISING ANY RIGHTS PROVIDED BELOW TO USE THE FLOW WIZARD SOLUTION (AS DEFINED BELOW) OFFERED BY FLOW WIZARD LLC, (“FLOW WIZARD”), INCLUDING, FOR EXAMPLE, BY ACCESSING OR USING THE FLOW WIZARD SOFTWARE  (“Product”) OR ANY FLOW WIZARD SERVICES, THIS ENTITY, INDIVIDUAL, OR ORGANIZATION (“CUSTOMER”) CONSENTS TO BE BOUND BY THIS AGREEMENT, OR, IF APPLICABLE, BY THE TERMS OF A CURRENTLY EFFECTIVE WRITTEN AGREEMENT REGARDING THE USE OF THE PRODUCT AND SIGNED BY AN AUTHORIZED AGENT OF CUSTOMER AND BY FLOW WIZARD.
+
+
+1. LICENSE
+1.1 Software License During the Term (as defined below) specified on an Order Form (which may include an online form) issued by Flow Wizard or Flow Wizard’s authorized reseller, Flow Wizard grants to the Customer identified on the Order Form a non-exclusive, non-transferable, non-sublicensable license to use the Flow Wizard Solution (as defined below) for Customer’s internal business purposes, in accordance with the end-user or technical documentation provided by Flow Wizard to Customer (the “Documentation”). “Flow Wizard Solution” means the hosted and desktop version of the Flow Wizard Software which is made accessible to Customer by Flow Wizard. “Flow Wizard Software” shall mean: (a) the object code version of the software products listed on the Order Form; (b) any Documentation; and (c) any updates, upgrades, and/or modifications of the foregoing which Flow Wizard provides to Customer.
+
+
+1.2 Restrictions Except as expressly authorized in this Agreement, Customer shall not, and shall not authorize any third party to: (a) sublicense, transfer, loan, distribute, use or duplicate the Flow Wizard Solution or the Flow Wizard Software, or any portion thereof; (b) use the Flow Wizard Software by, or for the benefit of any third party; (c) modify, translate, or prepare derivative works based upon the Flow Wizard Solution or the Flow Wizard Software; (d) reverse-compile or decompile, disassemble or otherwise reverse engineer the Flow Wizard Software (e) alter, remove, or obscure any copyright, trademark, or other proprietary notices on or in the Flow Wizard Solution or the Flow Wizard Software; (f) use the Flow Wizard Solution to store or transmit infringing, libelous, or otherwise unlawful or tortious material, or to store or transmit material in violation of third-party privacy or other rights; and/or (g) use the Flow Wizard Solution to store or transmit viruses, worms, time bombs, Trojan horses and other harmful or malicious code, files, scripts, agents or programs.
+
+
+2. TERM AND TERMINATION
+
+
+2.1 Subscription Term and Auto-Renewal: Your Subscription Term begins once you register for your Flow Wizard Account and is the billing cycle that you selected for your Flow Wizard Account, or if purchasing the Service by a Flow Wizard order form, then the Subscription Term listed on your order form. UNLESS YOU DOWNGRADE OR CANCEL YOUR SUBSCRIPTION PRIOR TO THE EXPIRATION OF YOUR CURRENT SUBSCRIPTION TERM, YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW FOR ANOTHER SUBSCRIPTION TERM ON THE SAME PLAN (OR IF NO LONGER AVAILABLE, A SUCCESSOR PLAN) AND FOR A PERIOD EQUAL TO YOUR THEN-CURRENT SUBSCRIPTION TERM. All renewals are subject to the applicable Service and Plan continuing to be offered, and will be subject to the then-current Fees applicable to the renewed Service.
+
+
+2.2 Effect of Termination. Upon any expiration or termination of this Agreement: (a) all licenses and rights granted by Flow Wizard to Customer hereunder shall terminate; (b) Customer will cease all use of the Flow Wizard Solution and the Flow Wizard Software; (c) Customer shall immediately return to Flow Wizard or destroy the Flow Wizard Software, all duplicates, and any Flow Wizard Confidential Information in its possession or control; and (d) Customer shall pay to Flow Wizard within thirty (30) days of the date of termination any fees accrued prior to the date of termination and if this Agreement is terminated for any reason other than Flow Wizard’s uncured breach, any fees that would have been payable for the remainder of the Initial Term or then-current Renewal Term.
+
+
+2.3 Termination and Suspension by Flow Wizard: We reserve the right to terminate or suspend your Flow Wizard Account and/or our Service to you at any time and for any reason upon notice to you. If we terminate or suspend your Flow Wizard Account without cause, we will refund a prorated portion of your monthly prepayment. We will not refund or reimburse you if we terminate your Flow Wizard Account for cause, including (without limitation) for a violation of these Terms or the Acceptable Use Policy.
+
+
+3. PAYMENT. Customer shall pay to Flow Wizard or Flow Wizard’s authorized reseller the Fees in the amounts and at the times specified on the Order Form or in an SOW. Excluding taxes based on Flow Wizard’s income, Customer is liable for all taxes, duties and customs fees associated with the Fees, whether or not Flow Wizard invoices Customer for them. Past due accounts shall be charged interest on a monthly basis, calculated at one and one-half percent (1.5%) per month of the unpaid balance or the maximum rate allowable by law. At the end of each calendar quarter during the Term, Flow Wizard may invoice Customer for any use of the Flow Wizard Solution in excess of the quantity for which Customer has paid Fees, prorated for the remainder of the Initial Term or then-current Renewal Term.
+
+
+4. WARRANTY; DISCLAIMER; LIMITATION OF LIABILITY
+
+
+4.1 Service Commitment
+
+
+Flow Wizard shall use commercially reasonable efforts to make the Product available 24 hours a day, 7 days a week, except for planned downtime (of which Flow Wizard shall give at least 8 hours notice via the Product and which Flow Wizard shall schedule to the extent practicable during the weekend hours from 10:00 p.m. Friday to 6:00 a.m. Monday U.S. Eastern Time) or any unavailability caused by circumstances beyond Flow Wizard’s reasonable control, including but not limited to, acts of God, acts of government, floods, fires, earthquakes, civil unrest, acts of terror, strikes or other labor problems (other than those involving Flow Wizard employees), Internet service provider failures or delays, or denial of service attacks.
+
+
+4.2 Performance Warranty
+
+
+Flow Wizard warrants that the Product will materially perform in accordance with the applicable documentation under normal use and circumstances during the subscription term. If the Product does not conform to this warranty, the Customer must notify Flow Wizard in writing within thirty (30) days of the nonconformance. Flow Wizard’s sole and exclusive liability and the Customer’s sole and exclusive remedy for the Flow Wizard’s breach of this warranty shall be for Flow Wizard to use commercially reasonable efforts to correct the nonconformance, or if the Flow Wizard determines such remedy to be impracticable within a reasonable period of time, to terminate the subscription and refund the prepaid fees for the remainder of the subscription term after the date of termination.
+
+
+4.3 No Other Warranties
+
+
+Except as expressly provided in this Agreement, the Product is provided on an "as is" and "as available" basis, and Flow Wizard expressly disclaims any other warranties of any kind, whether express, implied, statutory, or otherwise, including, without limitation, warranties of merchantability, fitness for a particular purpose, title, and non-infringement. Flow Wizard does not warrant that the use of the Product will be uninterrupted or error-free, nor does it make any warranty as to the results that may be obtained from use of the Product.
+
+
+5. CONFIDENTIALITY.
+
+
+5.1 Obligation of Confidentiality. Each party agrees that it will not disclose or use for its own benefit or the benefit of any third party any Confidential Information of the other party disclosed to it by the other party, whether orally or in writing, except as permitted by this Agreement.
+
+
+5.2 Exceptions. The restrictions on use and disclosure set forth in Section 5.1 shall not apply to any Confidential Information which: (a) is or becomes generally known or available to the public through no act or omission of the receiving party; (b) is already in the possession of the receiving party without an obligation of confidentiality; (c) is independently developed by the receiving party without reference to the Confidential Information of the disclosing party; or (d) is disclosed to the receiving party by a third party without an obligation of confidentiality.
+
+
+5.3 Ownership of Confidential Information. All Confidential Information shall remain the property of the disclosing party. No license under any trademark, patent, or copyright, or any other intellectual property right is granted or implied by the disclosure of any Confidential Information under this Agreement.
+
+
+6. GENERAL PROVISIONS
+
+
+6.1 Governing Law. This Agreement shall be governed by and construed in accordance with the laws of the State of Indiana, without giving effect to any conflicts of laws principles that would require the application of the laws of a different jurisdiction.
+
+
+6.2 Dispute Resolution. The parties shall attempt in good faith to resolve all disputes, disagreements, or claims between them arising out of or relating to this Agreement promptly by negotiation between individuals who have authority to settle the dispute. Either party may give the other party written notice of any dispute not resolved in the normal course of business. Within ten (10) days after delivery of the notice, the receiving party shall submit to the other a written response. The notice and response shall include (a) a statement of each party’s position and a summary of arguments supporting that position, and (b) the name and title of the individual(s) who will represent that party and of any other person who will accompany the representative. Within thirty (30) days after delivery of the notice, the parties shall confer at least once, either in person or by videoconference, to attempt to resolve the dispute. All negotiations pursuant to this section are confidential and shall be treated as compromise and settlement negotiations for purposes of applicable rules of evidence. Except as otherwise specifically provided herein, all disputes hereunder shall be resolved exclusively by binding arbitration conducted in accordance with the Commercial Arbitration Rules of the American Arbitration Association (“AAA”). The arbitration shall take place in Indianapolis, Indiana, USA, before a single arbitrator chosen by mutual agreement of the parties, or if the parties cannot agree, then chosen by the AAA. The arbitration shall be conducted in the English language. The arbitrator may award any relief that a court of competent jurisdiction could award, including injunctive relief, and the arbitrator’s award shall be final, and judgment may be entered upon it in any court having jurisdiction thereof. The parties shall equally share the costs of the arbitration. In any arbitration or other legal action arising under or relating to this Agreement, the prevailing party shall be entitled to recover its reasonable attorneys’ fees and costs.
+
+
+6.3 Export Control. Customer agrees to comply fully with all relevant export laws and regulations of the United States and other applicable export and import laws to ensure that neither the Flow Wizard Solution nor any technical data related thereto are exported or re-exported directly or indirectly in violation of, or used for any purposes prohibited by, such laws and regulations.
+
+
+6.4 Assignment. Customer may not assign this Agreement, in whole or in part, without Flow Wizard’s prior written consent. Any attempted assignment in violation of this section shall be null and void.
+
+
+6.5 Waiver. The waiver by either party of any breach of any provision of this Agreement does not waive any other breach. The failure of any party to insist on strict performance of any covenant or obligation in accordance with this Agreement shall not be a waiver of such party’s right to demand strict compliance in the future, nor shall the same be construed as a novation of this Agreement.
+
+
+6.6 Notices. All notices required or permitted under this Agreement shall be in writing and shall be deemed effective upon personal delivery or three (3) business days after being deposited in the United States mail, postage prepaid, registered or certified, return receipt requested, addressed to the other party at the address set forth above, or to such other address as either party may from time to time specify to the other.
+
+
+6.7 Severability. If any provision of this Agreement is held to be unenforceable, this Agreement shall be construed without such provision. The failure of either party to exercise any right provided in this Agreement shall not be a waiver of prior or subsequent rights.
+
+
+6.8 Entire Agreement. This Agreement, including any and all exhibits, schedules, attachments, and addenda hereto and thereto, constitutes the entire agreement between the parties with respect to the subject matter hereof, and supersedes all prior and contemporaneous agreements and understandings, whether written or oral, relating to such subject matter. This Agreement may only be amended, modified, or supplemented by an agreement in writing signed by each party hereto.
+
+
+7. CUSTOMER DATA
+
+
+7.1 Data Ownership and Access: Flow Wizard does not require access to Customer Data stored on Customer's servers. The Flow Wizard product interacts solely with the column names and the Wizard Script provided by the Customer. Flow Wizard shall not access, modify, or use Customer Data for any purpose other than to provide the agreed-upon services and support, as outlined in this Agreement.
+
+
+7.2 Data Confidentiality: Flow Wizard acknowledges that Customer Data is confidential and proprietary to Customer. Flow Wizard agrees not to disclose, share, or use Customer Data for any purpose other than as necessary to fulfill its obligations under this Agreement. Flow Wizard shall maintain strict confidentiality regarding Customer Data and shall ensure that its employees, contractors, or agents with access to Customer Data are bound by confidentiality obligations at least as protective as those set forth in this Agreement.
+
+
+7.3 Data Security: Flow Wizard shall implement and maintain appropriate technical and organizational measures to safeguard Customer Data against unauthorized access, disclosure, alteration, or destruction. Flow Wizard shall regularly review and update its security measures to ensure the ongoing integrity and confidentiality of Customer Data.
+
+
+7.4 Data Processing: Flow Wizard shall only process Customer Data in accordance with the instructions provided by Customer through the Wizard Script. Flow Wizard shall not process Customer Data for any purpose other than as instructed by Customer, and Flow Wizard shall not retain Customer Data beyond the duration necessary to fulfill its obligations under this Agreement unless otherwise required by applicable law.
+
+
+7.5 Data Breach Notification: In the event of a data breach or unauthorized access to Customer Data, Flow Wizard shall promptly notify Customer of such incident and shall cooperate with Customer in investigating and mitigating the breach. Flow Wizard shall provide Customer with all relevant information and assistance necessary to comply with any applicable data breach notification requirements.
+
+
+7.6 No Data Use for Marketing: Flow Wizard shall not use Customer Data for marketing, advertising, or promotional purposes without the express written consent of Customer.
+
+
+7.7 Indemnification: Flow Wizard agrees to indemnify, defend, and hold harmless Customer from and against any claims, damages, losses, liabilities, and expenses arising out of or related to Flow Wizard's breach of its obligations under this Section 7.
+
+
+7.8 Limitation of Liability: Flow Wizard's liability for any breach of its obligations under this Section 7 shall be subject to the limitations set forth in Section 4.3 of this Agreement.
